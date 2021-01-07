@@ -1,0 +1,37 @@
+C:\Users\ptasabia\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.vbprojAssemblyReference.cache
+C:\Users\ptasabia\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.MainForm.resources
+C:\Users\ptasabia\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.Resources.resources
+C:\Users\ptasabia\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.vbproj.GenerateResource.cache
+C:\Users\ptasabia\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.exe.config
+C:\Users\ptasabia\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.exe
+C:\Users\ptasabia\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.pdb
+C:\Users\ptasabia\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.xml
+C:\Users\ptasabia\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.exe
+C:\Users\ptasabia\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.xml
+C:\Users\ptasabia\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.pdb
+E:\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.vbprojAssemblyReference.cache
+E:\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.MainForm.resources
+E:\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.Resources.resources
+E:\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.vbproj.GenerateResource.cache
+E:\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.exe
+E:\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.xml
+E:\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.pdb
+E:\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.exe.config
+E:\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.exe
+E:\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.pdb
+E:\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.xml
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.exe.config
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.exe
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.pdb
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\bin\Debug\CrossCheckerProject.xml
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.vbprojAssemblyReference.cache
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.MainForm.resources
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.Resources.resources
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.vbproj.GenerateResource.cache
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.vbproj.CoreCompileInputs.cache
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.exe
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.xml
+C:\Users\philip3454\Desktop\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.pdb
+D:\Not cisc 361\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.exe
+D:\Not cisc 361\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.xml
+D:\Not cisc 361\Cross Checker\CrossCheckerSolution\CrossCheckerProject\obj\Debug\CrossCheckerProject.pdb
